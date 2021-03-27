@@ -11,4 +11,4 @@ This is a simple Venmo-style payment backend model. The model comprises a databa
 ## Demo Requests
 
 ### Get all users
-<img src = "demo/Display_users.mov"> </img>
+<img src = "demo/display_users.gif"> </img>
