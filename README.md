@@ -17,8 +17,7 @@ This is a simple Venmo-style payment backend model. The model comprises a databa
 <img src = "demo/create_user.gif"> </img>
 
 <video width="320" height="240" controls>
-  <source src="demo/create_user.mov">
-  Your browser does not support this video.
+  <source src="demo/create_user.mov" type="video/mov">
 </video>
 
 ### Make a payment
