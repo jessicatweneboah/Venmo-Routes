@@ -8,7 +8,7 @@ This is a simple Venmo-style payment backend model. The model comprises a databa
   <li> SQLite - For the database </li>
 </ul>
 
-## Demo Requests
+## Demo Requests Using Postman
 
 ### Get all users
 <img src = "demo/display_users.gif"> </img>
