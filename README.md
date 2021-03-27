@@ -19,4 +19,5 @@ This is a simple Venmo-style payment backend model. The model comprises a databa
 ### Make a payment
 <img src = "demo/make_transaction.gif"> </img>
 
-
+### Get a specific user
+<img src = "demo/get_user.gif"> </img>
